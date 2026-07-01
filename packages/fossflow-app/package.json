@@ -6,15 +6,15 @@
   "dependencies": {
     "@isoflow/isopacks": "^0.0.10",
     "fossflow": "*",
-    "i18next": "^26.0.6",
+    "i18next": "^26.3.4",
     "i18next-browser-languagedetector": "^8.2.1",
     "i18next-http-backend": "^3.0.5",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5",
-    "react-error-boundary": "^6.1.1",
-    "react-i18next": "^17.0.4",
-    "react-router-dom": "^7.14.2",
-    "web-vitals": "^5.2.0"
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-error-boundary": "^6.1.2",
+    "react-i18next": "^17.0.8",
+    "react-router-dom": "^7.18.1",
+    "web-vitals": "^5.3.0"
   },
   "scripts": {
     "start": "rsbuild dev",

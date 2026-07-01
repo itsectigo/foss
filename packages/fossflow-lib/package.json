@@ -60,7 +60,7 @@
     "@types/dom-to-image": "^2.6.7",
     "@types/file-saver": "^2.0.7",
     "@types/jest": "^29.5.14",
-    "@types/jsdom": "^28.0.1",
+    "@types/jsdom": "^28.0.3",
     "@types/pathfinding": "^0.1.0",
     "@types/quill": "^2.0.14",
     "@types/uuid": "^9.0.8",
